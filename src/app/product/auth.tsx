@@ -1,9 +1,9 @@
 import {View, Text} from "react-native"; 
 
-export default function cart() { 
+export default function auth() { 
     return (
         <View>
-            <Text>Cart</Text>
+            <Text>Auth</Text>
         </View>
     );
 }
