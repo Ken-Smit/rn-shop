@@ -1,5 +1,5 @@
 // screens/HomeScreen.js
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from 'react-native';
 
 const HomeScreen = () => {
     return (
